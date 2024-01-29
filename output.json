@@ -1,0 +1,38 @@
+{
+    "images": [
+        {
+            "file_name": "biker pic.jpg",
+            "height": 1080,
+            "width": 1920,
+            "id": "biker pic"
+        }
+    ], 
+    "type": "instances",
+    "annotations": [
+        {
+            "area": 41818,
+            "iscrowd": 0,
+            "image_id": "biker pic",
+            "bbox": [936, 365, 203, 206],
+            "category_id": 0,
+            "id": 1, "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "area": 67017, "iscrowd": 0,
+            "image_id": "biker pic",
+            "bbox": [171, 387, 251, 267],
+            "category_id": 0,
+            "id": 2,
+            "ignore": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "none",
+            "id": 0,
+            "name": "Helmet"
+        }
+    ]
+}
